@@ -10,4 +10,4 @@ html = website.read()
 #use re.findall to get all the links
 links = re.findall('"((http|ftp)s?://.*?)"', html)
 
-print links
+print linksjjg
